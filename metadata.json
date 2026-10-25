@@ -1,0 +1,6 @@
+{
+  "name": "Ceylora Travels - Luxury Sri Lanka Travel & Tours",
+  "description": "Discover the Soul of Sri Lanka with Ceylora Travels. Bespoke luxury holidays, curated excursions, boutique hotels, and seamless private transport.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
